@@ -95,3 +95,12 @@ body {
     bottom: 200px;
     right: 50px;
 }
+@media only screen and (max-width: 479px) {
+    .inner-box {
+     max-width: 300px;
+    }
+    .c2{
+        bottom: 150px;
+        right: 50px;
+    }
+  }
